@@ -6,7 +6,7 @@
         transform: rotate(-2deg);
     }
 }
-@keyframes moveUpDown{
+/* @keyframes moveUpDown{
     0% {
         opacity: 0;
         transform: translateY(80px);
@@ -19,7 +19,7 @@
         opacity: 0;
         transform: translateY(100px);
     }
-}
+} */
 @keyframes backgroundAnimation {
     0% {
         background-position: 0% 50%;

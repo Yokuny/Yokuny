@@ -15,9 +15,6 @@
 - ⚡ Fun fact **Oneye 😜**: maybe a spen 3/4 of my day coding
 
 
-<!--
-
-<br><br>
 
 [![Felipe Rangel Ribeiro's GitHub stats align="left"](https://github-readme-stats.vercel.app/api?username=Yokuny&show_icons=true&theme=radical&bg_color=00000000&hide_border=true)](https://github.com/Yokuny/github-readme-stats) [![Top Langs  align="right"](https://github-readme-stats.vercel.app/api/top-langs/?username=Yokuny&layout=compact&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -47,6 +44,3 @@ https://github-readme-stats.vercel.app/api?username=Yokuny
 <p align="left">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yokuny)](https://github.com/yokuny/github-readme-stats)
 </p>
--->
-
-<br><br>

@@ -4,9 +4,7 @@
 
 
 
-<img align="right" height="590em" src="https://gist.github.com/Yokuny/57f61adcaeff531376b1573680570a94#file-yokunycard-svg"/
-     <script src="https://gist.github.com/Yokuny/57f61adcaeff531376b1573680570a94.js"></script>
-
+<img align="right" height="590em" src="[https://gist.github.com/Yokuny/57f61adcaeff531376b1573680570a94#file-yokunycard-svg](https://raw.githubusercontent.com/gist/Yokuny/57f61adcaeff531376b1573680570a94/raw/0c6326c2c2295752245cbc97dd60e4df64791191/yokunyCard.svg)"/
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Felipe Rangel</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>

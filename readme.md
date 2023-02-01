@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yokuny)](https://github.com/Yokuny/github-readme-stats)
+[![Felipe Rangel Ribeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yokuny&bg_color=00000000)](https://github.com/Yokuny/github-readme-stats)
 
 
 

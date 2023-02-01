@@ -1,6 +1,6 @@
 [![Felipe Rangel Ribeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yokuny&show_icons=true&theme=radical&bg_color=00000000)](https://github.com/Yokuny/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yokuny&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yokuny&layout=compact&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

@@ -1,4 +1,4 @@
-[![Felipe Rangel Ribeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yokuny&show_icons=true&theme=tokyonight)](https://github.com/Yokuny/github-readme-stats)
+[![Felipe Rangel Ribeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yokuny&show_icons=true&theme=dracula)](https://github.com/Yokuny/github-readme-stats)
 
 
 

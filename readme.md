@@ -1,4 +1,12 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/maykbrito/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg](https://raw.githubusercontent.com/gist/Yokuny/57f61adcaeff531376b1573680570a94/raw/0c6326c2c2295752245cbc97dd60e4df64791191/yokunyCard.svg"/>
+
+https://komarev.com/ghpvc/?username=Yokuny
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Felipe Rangel</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
@@ -35,7 +43,7 @@
 <br><br>
 
 https://github-readme-stats.vercel.app/api?username=Yokuny
-https://komarev.com/ghpvc/?username=Yokuny
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yokuny)](https://github.com/anuraghazra/github-readme-stats)
 

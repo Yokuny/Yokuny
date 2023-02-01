@@ -34,6 +34,11 @@
 
 <br><br>
 
+https://github-readme-stats.vercel.app/api?username=Yokuny
+https://komarev.com/ghpvc/?username=Yokuny
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yokuny)](https://github.com/anuraghazra/github-readme-stats)
+
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">

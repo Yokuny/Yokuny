@@ -4,7 +4,8 @@
 
 
 
-<img align="right" height="590em" src="https://gist.github.com/Yokuny/57f61adcaeff531376b1573680570a94#file-yokunycard-svg"/>
+<img align="right" height="590em" src="https://gist.github.com/Yokuny/57f61adcaeff531376b1573680570a94#file-yokunycard-svg"/
+     <script src="https://gist.github.com/Yokuny/57f61adcaeff531376b1573680570a94.js"></script>
 
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Felipe Rangel</h1>

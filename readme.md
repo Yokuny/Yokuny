@@ -1,11 +1,6 @@
-[![Felipe Rangel Ribeiro's GitHub stats align="left"](https://github-readme-stats.vercel.app/api?username=Yokuny&show_icons=true&theme=radical&bg_color=00000000&hide_border=true)](https://github.com/Yokuny/github-readme-stats) [![Top Langs  align="right"](https://github-readme-stats.vercel.app/api/top-langs/?username=Yokuny&layout=compact&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
 <img align="right" height="590em" src="[https://gist.github.com/Yokuny/57f61adcaeff531376b1573680570a94#file-yokunycard-svg](https://raw.githubusercontent.com/gist/Yokuny/57f61adcaeff531376b1573680570a94/raw/0c6326c2c2295752245cbc97dd60e4df64791191/yokunyCard.svg)"/
 
+     
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Felipe Rangel</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
@@ -23,6 +18,8 @@
 <!--
 
 <br><br>
+
+[![Felipe Rangel Ribeiro's GitHub stats align="left"](https://github-readme-stats.vercel.app/api?username=Yokuny&show_icons=true&theme=radical&bg_color=00000000&hide_border=true)](https://github.com/Yokuny/github-readme-stats) [![Top Langs  align="right"](https://github-readme-stats.vercel.app/api/top-langs/?username=Yokuny&layout=compact&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠 &nbsp;Tech Stack
 

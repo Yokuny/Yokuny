@@ -9,4 +9,3 @@
 [![Felipe R Ribeiro's GitHub stats align="left"](https://github-readme-stats.vercel.app/api?username=Yokuny&show_icons=true&theme=radical&bg_color=00000000&hide_border=true)](https://github.com/Yokuny/github-readme-stats)
 
 [![Top Langs align="right"](https://github-readme-stats.vercel.app/api/top-langs/?username=Yokuny&layout=compact&theme=radical&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-![image](https://user-images.githubusercontent.com/64806489/216626698-a3d6a585-e4a1-42ba-9a63-a9e16b8315c1.png)

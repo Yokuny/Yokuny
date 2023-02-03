@@ -4,10 +4,7 @@
   src="https://raw.githubusercontent.com/gist/Yokuny/57f61adcaeff531376b1573680570a94/raw/49a6b8ca4963baa95774ab18d0862d230c0cb388/yokunyCard.svg"
 /> -->
 
-<h1 align="left">Hi <img src="./img/hi.gif" height="30px" />, I'm Felipe R Ribeiro <img align="right" src="https://komarev.com/ghpvc/?username=Yokuny&color=blue" alt="Profile views" /></h1>
-<!-- <p align="left">
-  
-</p> -->
+<h1 align="left">Hi <img src="./img/hi.gif" height="30px" />, I'm Felipe R Ribeiro <img align="right" src="https://komarev.com/ghpvc/?username=Yokuny&theme=radical&bg_color=00000000&hide_border=true" alt="Profile views" /></h1>
 
 - 🔥 Software engineer with JS
 - 🔭 I'm currently learning full-stack web development **[Driven](https://github.com/driven-education)**

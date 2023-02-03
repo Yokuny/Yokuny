@@ -9,10 +9,13 @@
   <img src="https://komarev.com/ghpvc/?username=Yokuny&color=blue" alt="Profile views" />
 </p>
 
-- 🔥 Software engineer with JS - 🔭 I'm currently learning full-stack web development
-  [Driven](https://github.com/driven-education) - 🌱 I’m currently learning **NextJS** - 💬 Ask me about
-  **JavaScript, HTML, CSS, SQL, Node.JS** - ⚡ Fun fact **Oneye 😜**: maybe a spen 3/4 of my day coding
-  [![Felipe Rangel Ribeiro's GitHub stats
+- 🔥 Software engineer with JS
+- 🔭 I'm currently learning full-stack web development [Driven](https://github.com/driven-education)
+- 🌱 I’m currently learning **NextJS** - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+- ⚡ Fun fact **Oneye 😜**: maybe a spen 3/4 of my day coding
+
+[![Felipe Rangel Ribeiro's GitHub stats
 align="left"](https://github-readme-stats.vercel.app/api?username=Yokuny&show_icons=true&theme=radical&bg_color=00000000&hide_border=true)](https://github.com/Yokuny/github-readme-stats)
+
   [![Top Langs
 align="right"](https://github-readme-stats.vercel.app/api/top-langs/?username=Yokuny&layout=compact&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)

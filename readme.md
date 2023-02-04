@@ -6,6 +6,7 @@
 - 💬 Ask me about any **JavaScript** or **Node.JS** stuff
 - ⚡ Fun fact **😜**: maybe a spen 3/4 of my day coding
 
-[![Felipe R Ribeiro's GitHub stats align="left"](https://github-readme-stats.vercel.app/api?username=Yokuny&theme=radical&bg_color=00000000&hide_border=true)](https://github.com/Yokuny?tab=repositories)
-
-[![Top Langs align="right"](https://github-readme-stats.vercel.app/api/top-langs/?username=Yokuny&layout=compact&theme=radical&bg_color=00000000&hide_border=true)](https://github.com/Yokuny?tab=repositories)
+<div style="display:flex">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yokuny&theme=radical&bg_color=00000000&hide_border=true&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yokuny&layout=compact&theme=radical&bg_color=00000000&hide_border=true" />
+</div>

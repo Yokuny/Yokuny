@@ -5,7 +5,8 @@
 - 🌱 In this moment focused in **[Svelte](https://svelte.dev/)**
 - 💬 Ask me about any **JavaScript** or **Node.JS** stuff
 - ⚡ Fun fact **😜**: maybe a spen 3/4 of my day coding
-
+<br><!-- maybe will no work in mozilla browser -->
+<br>
 <div style="display:flex; align-items: start;">
   <a href="https://github.com/Yokuny?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api?username=Yokuny&theme=radical&bg_color=00000000&hide_border=true&show_icons=true" />

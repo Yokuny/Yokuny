@@ -9,7 +9,7 @@
 <br>
 <div style="display:flex; align-items: start;">
   <a href="https://github.com/Yokuny?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=Yokuny&theme=radical&bg_color=00000000&hide_border=true&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yokuny&layout=compact&theme=radical&bg_color=00000000&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Yokuny&theme=radical&theme=transparent&hide_border=true&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yokuny&layout=compact&theme=radical&theme=transparent&hide_border=true" />
   </a>
 </div>

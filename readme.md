@@ -5,7 +5,7 @@
 - 🌱 In this moment focused in **[Nestjs](https://nestjs.com/)**
 - 💬 Ask me anything about **[NextJs](https://nextjs.org/)** or **[Nestjs](https://nestjs.com/)**
 - 💻 I'm pro with **[Nodejs](https://nodejs.org)** / **[NestJs](https://nestjs.com/)**, **[JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)** / **[TypeScript](https://www.typescriptlang.org/)** and databases in **[SQL](https://www.postgresql.org/)** and **[MongoDB](https://www.mongodb.com)**
-- ⚡ Fun fact **😜**: I spend about 3/4 of my day coding, and the rest of my time is dedicated to activities like swimming or running.
+- ⚡ Fun fact **😜**: I code for about 3/4 of my day, dedicating the rest to activities like swimming or running.
 - 🧠 I feel joy while solving a developmental problem; **it feels like using my brain effectively**.
 <br><!-- maybe will no work in mozilla browser -->
 <br>

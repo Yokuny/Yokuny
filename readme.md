@@ -12,9 +12,9 @@
 <br><!-- maybe will no work in mozilla browser -->
 <br>
 
-<h1>
+<h2>
   Behind the scenes
-</h1>
+</h2>
 <h1>
   
 [![Node](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
@@ -34,9 +34,9 @@
 </h1>
 <br>
 
-<h1>
+<h2>
   While the back end works tirelessly behind the scenes, the front end takes center stage with:
-</h1>
+</h2>
 <h1>
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
@@ -58,9 +58,9 @@
 
 <details align="left">
   <summary>
-    <h1>
+    <h3>
       Development Statistics.
-    </h1>
+    </h3>
   </summary> 
  
 

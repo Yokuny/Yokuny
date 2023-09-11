@@ -12,10 +12,14 @@
 <br><!-- maybe will no work in mozilla browser -->
 <br>
 
-<h2>
-  Behind the scenes
-</h2>
-<h1>
+
+<details align="left">
+  <summary>
+    <h2>
+      Behind the scenes
+    </h2>
+  </summary> 
+  <h1>
   
 [![Node](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 [![Nest](https://img.shields.io/badge/-Nest.js-EA2845?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com)
@@ -31,13 +35,16 @@
 [![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)](https://www.cypress.io/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 
-</h1>
-<br>
+  </h1>
+</details>
 
-<h2>
-  While the back end works tirelessly behind the scenes, the front end takes center stage with:
-</h2>
-<h1>
+<details align="left">
+  <summary>
+    <h2>
+      While the back end works tirelessly, the front end takes center stage
+    </h2>
+  </summary> 
+  <h1>
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
 [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
@@ -53,17 +60,16 @@
 [![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
-</h1>
-<br>
+  </h1>
+</details>
 
 <details align="left">
   <summary>
-    <h3>
+    <h4>
       Development Statistics.
-    </h3>
+    </h4>
   </summary> 
  
-
   <div style="display:flex; align-items: start;">
     <a href="https://github.com/Yokuny?tab=repositories">
       <img src="https://github-readme-stats.vercel.app/api?username=Yokuny&theme=radical&theme=transparent&hide_border=true&show_icons=true" />

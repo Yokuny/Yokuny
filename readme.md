@@ -55,7 +55,7 @@
 
 </details>
 
-<details align="left">
+<!-- <details align="left">
   <summary>
     <h4>
       Development Statistics.
@@ -68,4 +68,4 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yokuny&layout=compact&theme=radical&theme=transparent&hide_border=true" />
     </a>
   </div>
-</details>
+</details> -->

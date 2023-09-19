@@ -9,51 +9,46 @@
 - ⚡ Fun fact **😜**: I code for about 3/4 of my day, dedicating the rest to activities like swimming or running.
 - 🧠 I feel joy while solving a developmental problem; **it feels like using my brain effectively**.
 <br>
-<details align="left">
-  <summary>
-    <h2>
-      What I use behind the scenes
-    </h2>
-  </summary>
+
+<h2>
+  What I use behind the scenes
+</h2>
     
-[![Node](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-[![Nest](https://img.shields.io/badge/-Nest.js-EA2845?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com)
-[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com)
-[![Postgres](https://img.shields.io/badge/-PostgreSQL-31648c?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-00d65c?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
-[![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
-[![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io)
-[![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)](https://jwt.io/)
-[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
-[![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io)
-[![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)](https://www.cypress.io/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Node](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
+[![Express.js](https://skillicons.dev/icons?i=expressjs)](https://expressjs.com)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com)
+[![Postgres](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org)
+[![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io)
+[![Prisma](https://skillicons.dev/icons?i=prisma)](https://www.prisma.io)
+<br>
 
-</details>
+[![Nest](https://skillicons.dev/icons?i=nestjs)](https://nestjs.com)
+[![GraphQL](https://skillicons.dev/icons?i=graphql)](https://nodejs.org](https://graphql.org/)
+[![Jest](https://skillicons.dev/icons?i=jest)](https://jestjs.io)
+[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
+<br>
 
-<details align="left">
-  <summary>
-    <h2>
-      While the back end works tirelessly, the front end takes center stage
-    </h2>
-  </summary>
+<h2>
+  While the back end works tirelessly, the front end takes center stage
+</h2>
 
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
-[![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)](https://angularjs.org/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)](https://ionic.io/)
-[![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
-[![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
-[![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
-[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
+[![Next JS](https://skillicons.dev/icons?i=next)](https://nextjs.org/)
+[![Angular.js](https://skillicons.dev/icons?i=angular)](https://angularjs.org/)
+[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org)
+[![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+<br>
 
-</details>
+[![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![TailwindCSS](https://skillicons.dev/icons?i=tailwindcss)](https://tailwindcss.com/)
+[![MUI](https://skillicons.dev/icons?i=mui)](https://mui.com/)
+[![Redux](https://skillicons.dev/icons?i=redux)](https://redux.js.org/)
+[![Threejs](https://skillicons.dev/icons?i=threejs)](https://threejs.org/)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
+<br>
 
 <!-- <details align="left">
   <summary>

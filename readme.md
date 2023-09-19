@@ -23,7 +23,7 @@
 <br>
 
 [![Nest](https://skillicons.dev/icons?i=nestjs)](https://nestjs.com)
-[![GraphQL](https://skillicons.dev/icons?i=graphql)](https://nodejs.org](https://graphql.org/)
+[![GraphQL](https://skillicons.dev/icons?i=graphql)](https://graphql.org/)
 [![Jest](https://skillicons.dev/icons?i=jest)](https://jestjs.io)
 [![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)

@@ -36,7 +36,6 @@
 
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev)
 [![Next JS](https://skillicons.dev/icons?i=next)](https://nextjs.org/)
-[![Angular.js](https://skillicons.dev/icons?i=angular)](https://angularjs.org/)
 [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org)
 [![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
@@ -45,7 +44,6 @@
 [![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![TailwindCSS](https://skillicons.dev/icons?i=tailwindcss)](https://tailwindcss.com/)
 [![MUI](https://skillicons.dev/icons?i=mui)](https://mui.com/)
-[![Redux](https://skillicons.dev/icons?i=redux)](https://redux.js.org/)
 [![Threejs](https://skillicons.dev/icons?i=threejs)](https://threejs.org/)
 [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
 <br>

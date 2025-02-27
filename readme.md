@@ -2,7 +2,7 @@
 </h1>
 
 - 🔥 full stack developer
-- 🔭 I am currently looking for my next job opportunity **[Linkedin](https://www.linkedin.com/in/yokuny/)**
+- 🔭 I am currently working at a company that develops solutions for e-commerce. **[Linkedin](https://www.linkedin.com/in/yokuny/)**
 - 🌱 In this moment focused in **[Nestjs](https://nestjs.com/)**
 - 💬 Ask me anything about **[NextJs](https://nextjs.org/)** or **[Nestjs](https://nestjs.com/)**
 - 💻 I'm pro with **[Nodejs](https://nodejs.org)** / **[NestJs](https://nestjs.com/)**, **[JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)** / **[TypeScript](https://www.typescriptlang.org/)** and databases in **[SQL](https://www.postgresql.org/)** and **[MongoDB](https://www.mongodb.com)**

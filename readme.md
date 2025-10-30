@@ -34,6 +34,7 @@
   While the back end works tirelessly, the front end takes center stage
 </h2>
 
+[![Vue](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev)
 [![Next JS](https://skillicons.dev/icons?i=next)](https://nextjs.org/)
 [![Angular](https://skillicons.dev/icons?i=angular)](https://angular.io/)
@@ -48,17 +49,13 @@
 [![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 <br>
 
-<!-- <details align="left">
-  <summary>
-    <h4>
-      Development Statistics.
-    </h4>
-  </summary> 
- 
-  <div style="display:flex; align-items: start;">
-    <a href="https://github.com/Yokuny?tab=repositories">
-      <img src="https://github-readme-stats.vercel.app/api?username=Yokuny&theme=radical&theme=transparent&hide_border=true&show_icons=true" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yokuny&layout=compact&theme=radical&theme=transparent&hide_border=true" />
-    </a>
-  </div>
-</details> -->
+
+<h2>
+  Felipe.vni@hotmail.com
+</h2>
+<h2>
+  (28) 99910-7980
+</h2>
+<h2>
+  https://www.linkedin.com/in/yokuny/
+</h2>

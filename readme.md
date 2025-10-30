@@ -21,6 +21,7 @@
 [![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io)
 [![Prisma](https://skillicons.dev/icons?i=prisma)](https://www.prisma.io)
 [![Grafana](https://skillicons.dev/icons?i=grafana)](https://grafana.com/)
+[![Prometheus](https://skillicons.dev/icons?i=prometheus)](https://prometheus.io/)
 <br>
 
 [![Nest](https://skillicons.dev/icons?i=nestjs)](https://nestjs.com)
@@ -52,13 +53,13 @@
 [![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 <br>
 
+<h2>
+  Contatos
+</h2>
 
-<h2>
-  Felipe.vni@hotmail.com
-</h2>
-<h2>
-  [(28) 99910-7980](wa.me/+5528999107980)
-</h2>
-<h2>
-  [Linkedin](https://www.linkedin.com/in/yokuny/)
-</h2>
+
+**Felipe.vni@hotmail.com**
+
+**[(28) 99910-7980](wa.me/+5528999107980)**
+
+**[Linkedin](https://www.linkedin.com/in/yokuny/)**

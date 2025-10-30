@@ -20,6 +20,7 @@
 [![Postgres](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org)
 [![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io)
 [![Prisma](https://skillicons.dev/icons?i=prisma)](https://www.prisma.io)
+[![Grafana](https://skillicons.dev/icons?i=grafana)](https://grafana.com/)
 <br>
 
 [![Nest](https://skillicons.dev/icons?i=nestjs)](https://nestjs.com)
@@ -28,6 +29,7 @@
 [![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
 [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
+[![Bash](https://skillicons.dev/icons?i=bash)](https://pt.wikipedia.org/wiki/Bash)
 <br>
 
 <h2>
@@ -43,8 +45,9 @@
 <br>
 
 [![TailwindCSS](https://skillicons.dev/icons?i=tailwindcss)](https://tailwindcss.com/)
-[![MUI](https://skillicons.dev/icons?i=mui)](https://mui.com/)
+[![PNPM](https://skillicons.dev/icons?i=pnpm)](https://pnpm.io/pt/)
 [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
+[![Vite](https://skillicons.dev/icons?i=vite)](https://vite.dev/)
 [![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 <br>
@@ -54,8 +57,8 @@
   Felipe.vni@hotmail.com
 </h2>
 <h2>
-  (28) 99910-7980
+  [(28) 99910-7980](wa.me/+5528999107980)
 </h2>
 <h2>
-  https://www.linkedin.com/in/yokuny/
+  [Linkedin](https://www.linkedin.com/in/yokuny/)
 </h2>
